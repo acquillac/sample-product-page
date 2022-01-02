@@ -1,0 +1,45 @@
+body
+{
+  color: #fff;
+  background: #5f6d8a;
+}
+
+.bg-custom-1
+{
+  background: #414b5f;
+}
+.bg-custom-2
+{
+  background-color: rgb(251, 186, 64);
+}
+
+
+.btn-custom-1
+{
+  border: 1px solid orange;
+  color: #fff;
+  padding: 0.5rem 4rem;
+  font-size: 1.2rem;
+}
+.btn-custom-1:hover
+{
+  background-color: rgb(251, 186, 64);
+  border: 1px solid orange;
+}
+
+.showcase-heading
+{
+  font-size: 5rem;
+  line-height: 4.4rem;
+}
+
+.nav-links-custom
+{
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+.nav-links-custom:hover
+{
+  color: rgb(199, 199, 199);
+}
